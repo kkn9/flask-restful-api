@@ -60,9 +60,8 @@ Packages  | Description
 - ```migrate.py``` contains useful scripts (run, initdb, testing, list routes, etc) using Flask-Script.
 - ```tests/``` write unit tests for models or integration tests for the different API endpoints.
 - ```requirements.txt``` contains all the python dependencies that install using pip.  
-  ``` 
-  pip install -r requirements.txt 
-  ```
+
+  ```pip install -r requirements.txt```
 
 ## Usage 
 
