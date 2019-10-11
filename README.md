@@ -59,7 +59,9 @@ Packages  | Description
 - ```manage.py``` will be used to launch the server locally.
 - ```migrate.py``` contains useful scripts (run, initdb, testing, list routes, etc) using Flask-Script.
 - ```tests/``` write unit tests for models or integration tests for the different API endpoints.
-- ```requirements.txt``` contains all the python dependencies that install using pip.
+- ```requirements.txt``` contains all the python dependencies that install using pip.  
+</br>
+
   ``` 
   pip install -r requirements.txt 
   ```
