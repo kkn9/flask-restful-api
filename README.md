@@ -61,8 +61,6 @@ Packages  | Description
 - ```tests/``` write unit tests for models or integration tests for the different API endpoints.
 - ```requirements.txt``` contains all the python dependencies that install using pip.  
 
-  ```pip install -r requirements.txt```
-
 ## Usage 
 
 1. Clone the repository.
